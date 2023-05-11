@@ -1,0 +1,55 @@
+jueves 27 de abril de 2023 12:59:21 PM MST
+GET
+  FILE='C:\Users\alumnog\Downloads\Base de datos.sav'.
+DATASET NAME ConjuntoDatos1 WINDOW=FRONT.
+DATASET ACTIVATE ConjuntoDatos1.
+
+SAVE OUTFILE='C:\Users\alumnog\Downloads\Base de datos.sav'
+  /COMPRESSED.
+DATASET ACTIVATE ConjuntoDatos1.
+
+SAVE OUTFILE='C:\Users\alumnog\Downloads\Base de datos.sav'
+  /COMPRESSED.
+DATASET ACTIVATE ConjuntoDatos1.
+
+SAVE OUTFILE='C:\Users\alumnog\Downloads\Base de datos.sav'
+  /COMPRESSED.
+DATASET ACTIVATE ConjuntoDatos1.
+
+SAVE OUTFILE='C:\Users\alumnog\Downloads\Base de datos.sav'
+  /COMPRESSED.
+DATASET ACTIVATE ConjuntoDatos1.
+
+SAVE OUTFILE='C:\Users\alumnog\Downloads\Base de datos.sav'
+  /COMPRESSED.
+DATASET ACTIVATE ConjuntoDatos1.
+
+SAVE OUTFILE='C:\Users\alumnog\Downloads\Base de datos.sav'
+  /COMPRESSED.
+DATASET ACTIVATE ConjuntoDatos1.
+
+SAVE OUTFILE='C:\Users\alumnog\Downloads\Base de datos.sav'
+  /COMPRESSED.
+DATASET ACTIVATE ConjuntoDatos1.
+
+SAVE OUTFILE='C:\Users\alumnog\Downloads\Base de datos.sav'
+  /COMPRESSED.
+DATASET ACTIVATE ConjuntoDatos1.
+
+SAVE OUTFILE='C:\Users\alumnog\Downloads\Base de datos.sav'
+  /COMPRESSED.
+DATASET ACTIVATE ConjuntoDatos1.
+
+SAVE OUTFILE='C:\Users\alumnog\Downloads\Base de datos.sav'
+  /COMPRESSED.
+DATASET ACTIVATE ConjuntoDatos1.
+
+SAVE OUTFILE='C:\Users\alumnog\Downloads\Base de datos.sav'
+  /COMPRESSED.
+DATASET ACTIVATE ConjuntoDatos1.
+
+SAVE OUTFILE='C:\Users\alumnog\Downloads\Base de datos.sav'
+  /COMPRESSED.
+
+SAVE OUTFILE='C:\Users\alumnog\Downloads\Base de datos.sav'
+  /COMPRESSED.
